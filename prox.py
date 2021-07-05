@@ -12,7 +12,7 @@ from os import system as terminal
 import requests
 from colorama import Fore,Style
 
-URL = "http://google.com"
+URL = "http://49.44.56.134/150MB.dat"
 CMD_CLEAR_TERM = "clear"
 TIMEOUT = (3.05,27)
 
